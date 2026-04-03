@@ -15,7 +15,7 @@ Lee el nivel de sonido ambiente con el sensor KY-038 y lo visualiza en tiempo re
 
 ## Demo
 
-> *(Agrega aquí una foto o GIF del circuito funcionando)*
+https://github.com/user-attachments/assets/c28fbbd1-8e48-4480-9d3f-ef8e2fd97900
 
 ---
 
@@ -26,7 +26,7 @@ Lee el nivel de sonido ambiente con el sensor KY-038 y lo visualiza en tiempo re
 | Arduino Uno/Nano   | 1        |
 | Sensor KY-038      | 1        |
 | LED (cualquier color) | 5     |
-| Resistencia 220Ω   | 5        |
+| Resistencia 220Ω   | 10       |
 | Protoboard + jumpers | —      |
 
 ---
@@ -48,14 +48,13 @@ Lee el nivel de sonido ambiente con el sensor KY-038 y lo visualiza en tiempo re
 | LED 4 | D12         |
 | LED 5 | D13         |
 
-> 💡 Conecta una resistencia de 220Ω en serie con cada LED (entre el pin y el ánodo).
+> 💡 Conecta dos resistencia de 220Ω en serie con cada LED (entre el pin y el ánodo).
 
 ---
 
-## Simulación en Wokwi
+## Simulación en Cirkit Design
 
-> *(Pega aquí el link público de tu proyecto en Wokwi)*  
-> Ejemplo: `https://wokwi.com/projects/XXXXXXXXX`
+<img width="3000" height="2345" alt="circuit_image" src="https://github.com/user-attachments/assets/3de87ff2-98a8-493c-a6cc-c11fd6daad08" />
 
 ---
 
